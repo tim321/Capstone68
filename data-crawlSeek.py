@@ -7,7 +7,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-job_url = []
+job_url = [] //create a list for jobs URL
 
 
 def get_job(url):
